@@ -71,7 +71,7 @@ holiday_dt,holiday_type,holiday_desc
 9/15/2017,11,grand Prix Season
 9/16/2017,11,grand Prix Season
 9/17/2017,11,grand Prix Season
-10/6/2017,9,Children's day
+10/6/2017,9,Children day
 10/18/2017,8,Deepavali
 10/28/2017,10,Secondary School Holiday
 10/29/2017,10,Secondary School Holiday
@@ -203,7 +203,7 @@ holiday_dt,holiday_type,holiday_desc
 9/14/2018,11,Grand Prix Season
 9/15/2018,11,Grand Prix Season
 9/16/2018,11,Grand Prix Season
-10/5/2018,9,Children's day
+10/5/2018,9,Children day
 10/27/2018,10,Secondary School Holiday
 10/28/2018,10,Secondary School Holiday
 10/29/2018,10,Secondary School Holiday
@@ -341,7 +341,7 @@ holiday_dt,holiday_type,holiday_desc
 9/20/2019,11,Grand Prix Season
 9/21/2019,11,Grand Prix Season
 9/22/2019,11,Grand Prix Season
-10/4/2019,9,Children's day
+10/4/2019,9,Children day
 10/26/2019,10,Secondary School Holiday
 10/27/2019,8,Deepavali
 10/28/2019,8,Deepavali
@@ -376,9 +376,9 @@ holiday_dt,holiday_type,holiday_desc
 11/26/2019,9,School holiday
 11/27/2019,9,School holiday
 11/28/2019,11,SITEX
-11/29/2019,11,"SCSM, SITEX"
-11/30/2019,11,"SCSM, SITEX"
-12/1/2019,11,"SCSM, SITEX"
+11/29/2019,11,SCSM SITEX
+11/30/2019,11,SCSM SITEX
+12/1/2019,11,SCSM SITEX
 12/2/2019,9,School holiday
 12/3/2019,9,School holiday
 12/4/2019,9,School holiday
