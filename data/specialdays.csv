@@ -1,40 +1,405 @@
 holiday_dt,holiday_type,holiday_desc
-2017-01-01,8,New Year
-2017-01-02,8,New Year
-2017-01-28,8,CNY
-2017-01-29,8,CNY
-2017-01-30,8,CNY
-2017-04-14,8,Good Friday
-2017-05-01,8,Labour Day
-2017-05-10,8,Vesak Day
-2017-05-25,8,Hari Raya Puasa
-2017-05-26,8,Hari Raya Puasa
-2017-08-09,8,National Day
-2017-09-01,8,Hari Raya Haji
-2017-10-18,8,Deepavali
-2017-12-25,8,Christmas Day
-2018-01-01,8,New Year
-2018-02-16,8,CNY
-2018-02-17,8,CNY
-2018-03-30,8,Good Friday
-2018-05-01,8,Labour Day
-2018-05-29,8,Vesak Day
-2018-06-15,8,Hari Raya Puasa
-2018-08-09,8,National Day
-2018-08-22,8,Hari Raya Haji
-2018-11-06,8,Deepavali
-2018-12-25,8,Christmas Day
-2019-01-01,8,New Year
-2019-02-05,8,CNY1
-2019-02-06,8,CNY2
-2019-04-19,8,Good Friday
-2019-05-01,8,Labour Day
-2019-05-19,8,Vesak
-2019-05-20,8,Vesak
-2019-06-05,8,Hari Raya Puasa
-2019-08-09,8,National Day
-2019-08-11,8,Hari Raya Haji
-2019-08-12,8,Hari Raya Haji
-2019-10-27,8,Deepavali
-2019-10-28,8,Deepavali
-2019-12-25,8,Christmas Day
+1/1/2017,8,New Year
+1/2/2017,8,New Year
+1/28/2017,8,CNY
+1/29/2017,8,CNY
+1/30/2017,8,CNY
+3/11/2017,9,School holiday
+3/12/2017,9,School holiday
+3/13/2017,9,School holiday
+3/14/2017,9,School holiday
+3/15/2017,9,School holiday
+3/16/2017,11,IT Show
+3/17/2017,11,IT Show
+3/18/2017,11,IT Show
+3/19/2017,11,IT Show
+4/14/2017,8,Good Friday
+5/1/2017,8,Labour Day
+5/10/2017,8,Vesak Day
+5/25/2017,8,Hari Raya Puasa
+5/26/2017,8,Hari Raya Puasa
+5/27/2017,9,School holiday
+5/28/2017,9,School holiday
+5/29/2017,9,School holiday
+5/30/2017,9,School holiday
+5/31/2017,9,School holiday
+6/1/2017,11,CEE
+6/2/2017,11,CEE
+6/3/2017,11,CEE
+6/4/2017,11,CEE
+6/5/2017,9,School holiday
+6/6/2017,9,School holiday
+6/7/2017,9,School holiday
+6/8/2017,9,School holiday
+6/9/2017,9,School holiday
+6/10/2017,9,School holiday
+6/11/2017,9,School holiday
+6/12/2017,9,School holiday
+6/13/2017,9,School holiday
+6/14/2017,9,School holiday
+6/15/2017,9,School holiday
+6/16/2017,9,School holiday
+6/17/2017,9,School holiday
+6/18/2017,9,School holiday
+6/19/2017,9,School holiday
+6/20/2017,9,School holiday
+6/21/2017,9,School holiday
+6/22/2017,9,School holiday
+6/23/2017,9,School holiday
+6/24/2017,9,School holiday
+6/25/2017,9,School holiday
+6/26/2017,9,School holiday
+7/3/2017,9,Post Youth Day
+8/9/2017,8,National Day
+8/10/2017,9,Post National day
+8/30/2017,11,Comex
+8/31/2017,11,Comex
+9/1/2017,11,Comex
+9/2/2017,11,Comex
+9/3/2017,11,Comex
+9/4/2017,9,School holiday
+9/5/2017,9,School holiday
+9/6/2017,9,School holiday
+9/7/2017,9,School holiday
+9/8/2017,9,School holiday
+9/9/2017,9,School holiday
+9/10/2017,9,School holiday
+9/11/2017,11,grand Prix Season
+9/12/2017,11,grand Prix Season
+9/13/2017,11,grand Prix Season
+9/14/2017,11,grand Prix Season
+9/15/2017,11,grand Prix Season
+9/16/2017,11,grand Prix Season
+9/17/2017,11,grand Prix Season
+10/6/2017,9,Children's day
+10/18/2017,8,Deepavali
+10/28/2017,10,Secondary School Holiday
+10/29/2017,10,Secondary School Holiday
+10/30/2017,10,Secondary School Holiday
+10/31/2017,10,Secondary School Holiday
+11/1/2017,10,Secondary School Holiday
+11/2/2017,10,Secondary School Holiday
+11/3/2017,10,Secondary School Holiday
+11/4/2017,10,Secondary School Holiday
+11/5/2017,10,Secondary School Holiday
+11/6/2017,10,Secondary School Holiday
+11/7/2017,10,Secondary School Holiday
+11/8/2017,10,Secondary School Holiday
+11/9/2017,10,Secondary School Holiday
+11/10/2017,10,Secondary School Holiday
+11/11/2017,10,Secondary School Holiday
+11/12/2017,10,Secondary School Holiday
+11/13/2017,10,Secondary School Holiday
+11/14/2017,10,Secondary School Holiday
+11/15/2017,10,Secondary School Holiday
+11/16/2017,10,Secondary School Holiday
+11/17/2017,10,Secondary School Holiday
+11/18/2017,9,School holiday
+11/19/2017,9,School holiday
+11/20/2017,9,School holiday
+11/21/2017,9,School holiday
+11/22/2017,9,School holiday
+11/23/2017,9,School holiday
+11/24/2017,9,School holiday
+11/25/2017,9,School holiday
+11/26/2017,9,School holiday
+11/27/2017,9,School holiday
+11/28/2017,9,School holiday
+11/29/2017,9,School holiday
+11/30/2017,9,School holiday
+12/1/2017,9,School holiday
+12/2/2017,9,School holiday
+12/3/2017,9,School holiday
+12/4/2017,9,School holiday
+12/5/2017,9,School holiday
+12/6/2017,9,School holiday
+12/7/2017,9,School holiday
+12/8/2017,9,School holiday
+12/9/2017,9,School holiday
+12/10/2017,9,School holiday
+12/11/2017,9,School holiday
+12/12/2017,9,School holiday
+12/13/2017,9,School holiday
+12/14/2017,9,School holiday
+12/15/2017,9,School holiday
+12/16/2017,9,School holiday
+12/17/2017,9,School holiday
+12/18/2017,9,School holiday
+12/19/2017,9,School holiday
+12/20/2017,9,School holiday
+12/21/2017,9,School holiday
+12/22/2017,9,School holiday
+12/23/2017,9,School holiday
+12/24/2017,9,School holiday
+12/25/2017,8,Christmas Day
+12/26/2017,9,School holiday
+12/27/2017,9,School holiday
+12/28/2017,9,School holiday
+12/29/2017,9,School holiday
+12/30/2017,9,School holiday
+12/31/2017,9,School holiday
+1/1/2018,8,New Year
+2/16/2018,8,CNY
+2/17/2018,8,CNY
+3/10/2018,9,School holiday
+3/11/2018,9,School holiday
+3/12/2018,9,School holiday
+3/13/2018,9,School holiday
+3/14/2018,9,School holiday
+3/15/2018,11,IT Show
+3/16/2018,11,IT Show
+3/17/2018,11,IT Show
+3/18/2018,11,IT Show
+3/30/2018,8,Good Friday
+5/1/2018,8,Labour Day
+5/26/2018,9,School holiday
+5/27/2018,9,School holiday
+5/28/2018,9,School holiday
+5/29/2018,8,Vesak Day
+5/30/2018,9,School holiday
+5/31/2018,9,School holiday
+6/1/2018,9,School holiday
+6/2/2018,9,School holiday
+6/3/2018,9,School holiday
+6/4/2018,9,School holiday
+6/5/2018,9,School holiday
+6/6/2018,9,School holiday
+6/7/2018,9,School holiday
+6/8/2018,9,School holiday
+6/9/2018,9,School holiday
+6/10/2018,9,School holiday
+6/11/2018,9,School holiday
+6/12/2018,9,School holiday
+6/13/2018,9,School holiday
+6/14/2018,9,School holiday
+6/15/2018,8,Hari Raya Puasa
+6/16/2018,9,School holiday
+6/17/2018,9,School holiday
+6/18/2018,9,School holiday
+6/19/2018,9,School holiday
+6/20/2018,9,School holiday
+6/21/2018,9,School holiday
+6/22/2018,9,School holiday
+6/23/2018,9,School holiday
+6/24/2018,9,School holiday
+7/2/2018,9,Post Youth Day
+8/9/2018,8,National Day
+8/10/2018,9,Post National day
+8/22/2018,8,Hari Raya Haji
+8/31/2019,8,Teacher day
+9/1/2018,9,School holiday
+9/2/2018,9,School holiday
+9/3/2018,9,School holiday
+9/4/2018,9,School holiday
+9/5/2018,9,School holiday
+9/6/2018,11,Comex
+9/7/2018,11,Comex
+9/8/2018,11,Comex
+9/9/2018,11,Comex
+9/10/2018,11,Grand Prix Season
+9/11/2018,11,Grand Prix Season
+9/12/2018,11,Grand Prix Season
+9/13/2018,11,Grand Prix Season
+9/14/2018,11,Grand Prix Season
+9/15/2018,11,Grand Prix Season
+9/16/2018,11,Grand Prix Season
+10/5/2018,9,Children's day
+10/27/2018,10,Secondary School Holiday
+10/28/2018,10,Secondary School Holiday
+10/29/2018,10,Secondary School Holiday
+10/30/2018,10,Secondary School Holiday
+10/31/2018,10,Secondary School Holiday
+11/1/2018,10,Secondary School Holiday
+11/2/2018,10,Secondary School Holiday
+11/3/2018,10,Secondary School Holiday
+11/4/2018,10,Secondary School Holiday
+11/5/2018,10,Secondary School Holiday
+11/6/2018,8,Deepavali
+11/17/2018,9,School holiday
+11/18/2018,9,School holiday
+11/19/2018,9,School holiday
+11/20/2018,9,School holiday
+11/21/2018,9,School holiday
+11/22/2018,9,School holiday
+11/23/2018,9,School holiday
+11/24/2018,9,School holiday
+11/25/2018,9,School holiday
+11/26/2018,9,School holiday
+11/27/2018,9,School holiday
+11/28/2018,9,School holiday
+11/29/2018,9,School holiday
+11/30/2018,9,School holiday
+12/1/2018,9,School holiday
+12/2/2018,9,School holiday
+12/3/2018,9,School holiday
+12/4/2018,9,School holiday
+12/5/2018,9,School holiday
+12/6/2018,9,School holiday
+12/7/2018,9,School holiday
+12/8/2018,9,School holiday
+12/9/2018,9,School holiday
+12/10/2018,9,School holiday
+12/11/2018,9,School holiday
+12/12/2018,9,School holiday
+12/13/2018,9,School holiday
+12/14/2018,9,School holiday
+12/15/2018,9,School holiday
+12/16/2018,9,School holiday
+12/17/2018,9,School holiday
+12/18/2018,9,School holiday
+12/19/2018,9,School holiday
+12/20/2018,9,School holiday
+12/21/2018,9,School holiday
+12/22/2018,9,School holiday
+12/23/2018,9,School holiday
+12/24/2018,9,School holiday
+12/25/2018,8,Christmas Day
+12/26/2018,9,School holiday
+12/27/2018,9,School holiday
+12/28/2018,9,School holiday
+12/29/2018,9,School holiday
+12/30/2018,9,School holiday
+12/31/2018,9,School holiday
+1/1/2019,8,New Year
+2/5/2019,8,CNY1
+2/6/2019,8,CNY2
+3/7/2019,11,IT Show
+3/8/2019,11,IT Show
+3/9/2019,11,IT Show
+3/10/2019,11,IT Show
+3/16/2019,9,School holiday
+3/17/2019,9,School holiday
+3/18/2019,9,School holiday
+3/19/2019,9,School holiday
+3/20/2019,9,School holiday
+3/21/2019,9,School holiday
+3/22/2019,9,School holiday
+3/23/2019,9,School holiday
+3/24/2019,9,School holiday
+4/19/2019,8,Good Friday
+5/1/2019,8,Labour Day
+5/19/2019,8,Vesak
+5/20/2019,8,Vesak
+5/23/2019,11,CEE
+5/24/2019,11,CEE
+5/25/2019,11,CEE
+5/26/2019,11,CEE
+5/30/2019,11,PC Show
+5/31/2019,11,PC show
+6/1/2019,9,School holiday
+6/2/2019,9,School holiday
+6/3/2019,9,School holiday
+6/4/2019,9,School holiday
+6/5/2019,8,Hari Raya Puasa
+6/6/2019,9,School holiday
+6/7/2019,9,School holiday
+6/8/2019,9,School holiday
+6/9/2019,9,School holiday
+6/10/2019,9,School holiday
+6/11/2019,9,School holiday
+6/12/2019,9,School holiday
+6/13/2019,9,School holiday
+6/14/2019,9,School holiday
+6/15/2019,9,School holiday
+6/16/2019,9,School holiday
+6/17/2019,9,School holiday
+6/18/2019,9,School holiday
+6/19/2019,9,School holiday
+6/20/2019,9,School holiday
+6/21/2019,9,School holiday
+6/22/2019,9,School holiday
+6/23/2019,9,School holiday
+6/24/2019,9,School holiday
+6/25/2019,9,School holiday
+6/26/2019,9,School holiday
+6/27/2019,9,School holiday
+6/28/2019,9,School holiday
+6/29/2019,9,School holiday
+6/30/2019,9,School holiday
+7/8/2019,9,Post Youth Day
+8/9/2019,8,National Day
+8/11/2019,8,Hari Raya Haji
+8/12/2019,8,Hari Raya Haji
+9/5/2019,11,Comex
+9/6/2019,11,Comex
+9/7/2019,11,Comex
+9/8/2019,11,Comex
+9/6/2019,9,Teacher day
+9/7/2019,9,School holiday
+9/8/2019,9,School holiday
+9/9/2019,9,School holiday
+9/10/2019,9,School holiday
+9/11/2019,9,School holiday
+9/12/2019,9,School holiday
+9/13/2019,9,School holiday
+9/14/2019,9,School holiday
+9/15/2019,9,School holiday
+9/16/2019,11,Grand Prix Season
+9/17/2019,11,Grand Prix Season
+9/18/2019,11,Grand Prix Season
+9/19/2019,11,Grand Prix Season
+9/20/2019,11,Grand Prix Season
+9/21/2019,11,Grand Prix Season
+9/22/2019,11,Grand Prix Season
+10/4/2019,9,Children's day
+10/26/2019,10,Secondary School Holiday
+10/27/2019,8,Deepavali
+10/28/2019,8,Deepavali
+10/29/2019,10,Secondary School Holiday
+10/30/2019,10,Secondary School Holiday
+10/31/2019,10,Secondary School Holiday
+11/1/2019,10,Secondary School Holiday
+11/2/2019,10,Secondary School Holiday
+11/3/2019,10,Secondary School Holiday
+11/4/2019,10,Secondary School Holiday
+11/5/2019,10,Secondary School Holiday
+11/6/2019,10,Secondary School Holiday
+11/7/2019,10,Secondary School Holiday
+11/8/2019,10,Secondary School Holiday
+11/9/2019,10,Secondary School Holiday
+11/10/2019,10,Secondary School Holiday
+11/11/2019,10,Secondary School Holiday
+11/12/2019,10,Secondary School Holiday
+11/13/2019,10,Secondary School Holiday
+11/14/2019,11,Tech Show
+11/15/2019,11,Tech Show
+11/16/2019,11,Tech Show
+11/17/2019,11,Tech Show
+11/18/2019,9,School holiday
+11/19/2019,9,School holiday
+11/20/2019,9,School holiday
+11/21/2019,9,School holiday
+11/22/2019,9,School holiday
+11/23/2019,9,School holiday
+11/24/2019,9,School holiday
+11/25/2019,9,School holiday
+11/26/2019,9,School holiday
+11/27/2019,9,School holiday
+11/28/2019,11,SITEX
+11/29/2019,11,"SCSM, SITEX"
+11/30/2019,11,"SCSM, SITEX"
+12/1/2019,11,"SCSM, SITEX"
+12/2/2019,9,School holiday
+12/3/2019,9,School holiday
+12/4/2019,9,School holiday
+12/5/2019,9,School holiday
+12/6/2019,9,School holiday
+12/7/2019,9,School holiday
+12/8/2019,9,School holiday
+12/9/2019,9,School holiday
+12/10/2019,9,School holiday
+12/11/2019,9,School holiday
+12/12/2019,9,School holiday
+12/13/2019,9,School holiday
+12/14/2019,9,School holiday
+12/15/2019,9,School holiday
+12/16/2019,9,School holiday
+12/17/2019,9,School holiday
+12/18/2019,9,School holiday
+12/19/2019,9,School holiday
+12/20/2019,9,School holiday
+12/21/2019,9,School holiday
+12/22/2019,9,School holiday
+12/23/2019,9,School holiday
+12/24/2019,9,School holiday
+12/25/2019,8,Christmas Day
